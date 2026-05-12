@@ -1,0 +1,6 @@
+[submodule "interface_rugby_wheelchair_FE"]
+	path = interface_rugby_wheelchair_FE
+	url = ./interface_rugby_wheelchair_FE/
+[submodule "rugby_wheelchair_backend"]
+	path = rugby_wheelchair_backend
+	url = ./rugby_wheelchair_backend/
