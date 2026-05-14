@@ -1,6 +1,6 @@
 [submodule "interface_rugby_wheelchair_FE"]
 	path = interface_rugby_wheelchair_FE
-	url = ./interface_rugby_wheelchair_FE/
+	url = https://github.com/GuyBorel/interface_rugby_wheelchair_FE.git
 [submodule "rugby_wheelchair_backend"]
 	path = rugby_wheelchair_backend
-	url = ./rugby_wheelchair_backend/
+	url = https://github.com/Bebel19/rugby_wheelchair_backend.git
